@@ -5,7 +5,7 @@ Kaggle Course를 이용한 20일 머신러닝 챌린지
 
 **Contents list**
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-  * **Day 1** -- How Models Work
+  * **Day 1** -- How Models Work (DecisionTreeRegressor)
   * **Day 2** -- Basic Data Exploration
   * **Day 3** -- Your First Machine Learning Model (DecisionTreeRegressor)
   * **Day 4** -- Model Validation (mean_absolute_error)
